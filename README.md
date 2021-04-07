@@ -21,3 +21,6 @@ gcloud firebase test android run --type instrumentation \
   --test build/app/outputs/apk/androidTest/debug/app-debug-androidTest.apk\
   --timeout 2m
 ```
+
+## ktだけどjavaに入れる
+https://github.com/googlecodelabs/android-testing/blob/starter_code/app/src/androidTest/java/com/example/android/architecture/blueprints/todoapp/ExampleInstrumentedTest.kt
